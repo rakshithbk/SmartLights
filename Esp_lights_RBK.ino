@@ -1,7 +1,7 @@
 
 /*  ~ SmartLights ~ -> ESP8266 and LED strip
               ╦═╗╔╗ ╦╔═
-      By--    ╠╦╝╠╩╗╠╩╗     2014
+      By--    ╠╦╝╠╩╗╠╩╗     2014 Rakshith BK
               ╩╚═╚═╝╩ ╩         
  *  
  *  No licences no copyrights, well may be MIT.
