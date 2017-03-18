@@ -9,7 +9,7 @@
  *  And even though this code will not launch any Nukes, 
  *  I'm not responsible for any destruction caused by it.!
  *  
- *  For Details and working -- 
+ *  For Details and working -- https://www.instructables.com/id/SmartLights-ESP8266-and-Led-Strip/
  */
 
 #include <ESP8266WiFi.h>
